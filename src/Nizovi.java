@@ -6,8 +6,6 @@ public class Nizovi {
      niz[0] = 2431234;
      niz[1] = 41241243;
 
-     niz[2] = 9;
-
      /*for (int i = 0; i < niz.length; i++){
        System.out.println(niz[i]);
      }*/
@@ -34,7 +32,6 @@ public class Nizovi {
       int[][] dvodimenzionalniNiz = new int[][]{
               {1, 2, 3},
               {4, 5, 6},
-              {7, 8, 9}
       };
 
       for (int[] a : dvodimenzionalniNiz){
