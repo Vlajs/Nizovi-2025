@@ -2,8 +2,8 @@ public class Nizovi {
   public static void main (String[] args){
      int[] niz = new int[3];
 
-     niz[0] = 5;
-     niz[1] = 6;
+     niz[0] = 2431234;
+     niz[1] = 41241243;
 
      niz[2] = 9;
 
@@ -22,7 +22,12 @@ public class Nizovi {
           System.out.println(a);
       }*/
 
-      String[] strings = {"asfd", "asfda", "sfasf"};
+      String[] strings = {"asfd23412", "asfd2341a", "sfasf"};
+    String[] strings = {"asfd23412", "asfd2341a", "sfasf"};
+    String[] strings = {"asfd23412", "asfd2341a", "sfasf"};
+    String[] strings = {"asfd23412", "asfd2341a", "sfasf"};
+    String[] strings = {"asfd23412", "asfd2341a", "sfasf"};
+    String[] strings = {"asfd23412", "asfd2341a", "sfasf"};
 
       int[][] dvodimenzionalniNiz = new int[][]{
               {1, 2, 3},
