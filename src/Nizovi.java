@@ -1,5 +1,11 @@
 public class Nizovi {
   public static void main (String[] args){
+
+    
+      String[] strings = {"asfd23412", "asfd2341a", "sfasf"};
+      String[] strings1 = {"asfd23412", "asfd2341a", "sfasf"};
+
+    
       System.out.println("This is the beginning of the code.");
      int[] niz = new int[3];
 
@@ -21,13 +27,10 @@ public class Nizovi {
           System.out.println(a);
       }*/
 
+    
       String[] strings = {"asfd23412", "asfd2341a", "sfasf"};
       String[] strings1 = {"asfd23412", "asfd2341a", "sfasf"};
-      String[] strings2 = {"asfd23412", "asfd2341a", "sfasf"};
-      String[] strings3 = {"asfd23412", "asfd2341a", "sfasf"};
-      String[] strings4 = {"asfd23412", "asfd2341a", "sfasf"};
-      String[] strings5 = {"asfd23412", "asfd2341a", "sfasf"};
-      System.out.println("This is the new line for resolving the conflict");
+
 
       int[][] dvodimenzionalniNiz = new int[][]{
               {1, 2, 3},
@@ -44,6 +47,9 @@ public class Nizovi {
 
       System.out.println("This is the end of the code.");
 
+    
+      String[] strings = {"asfd23412", "asfd2341a", "sfasf"};
+      String[] strings1 = {"asfd23412", "asfd2341a", "sfasf"};
 
   }
 }
