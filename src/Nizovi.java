@@ -25,11 +25,7 @@ public class Nizovi {
 
       for (int a : noviNiz){
           System.out.println(a);
-      }*/
-
-    
-      String[] strings = {"asfd23412", "asfd2341a", "sfasf"};
-      String[] strings1 = {"asfd23412", "asfd2341a", "sfasf"};
+      }*/;
 
 
       int[][] dvodimenzionalniNiz = new int[][]{
@@ -47,9 +43,7 @@ public class Nizovi {
 
       System.out.println("This is the end of the code.");
 
-    
-      String[] strings = {"asfd23412", "asfd2341a", "sfasf"};
-      String[] strings1 = {"asfd23412", "asfd2341a", "sfasf"};
+
 
   }
 }
